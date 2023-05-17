@@ -1,0 +1,1196 @@
+{
+  "usergroup": "[]",
+  "testActivationTriggers": {},
+  "productListPage": {
+    "category": {
+      "name": "Krzesła i fotele biurowe",
+      "key": "20652",
+      "url": "https://www.ikea.com/pl/pl/cat/krzesla-i-fotele-biurowe-20652/",
+      "imageUrl": "https://www.ikea.com/pl/pl/range-categorisation/images/krzesla-i-fotele-biurowe-20652.jpeg"
+    },
+    "productWindow": [
+      {
+        "name": "MARKUS",
+        "typeName": "Krzesło biurowe",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/markus-krzeslo-biurowe-vissle-ciemnoszary__0724714_pe734597_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/markus-krzeslo-biurowe-vissle-ciemnoszary-70261150/",
+        "id": "70261150",
+        "itemNoGlobal": "70261150",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 1,
+          "variants": [
+            {
+              "id": "10521858",
+              "pipUrl": "https://www.ikea.com/pl/pl/p/markus-krzeslo-biurowe-vissle-jasnoszary-10521858/",
+              "imageUrl": "https://www.ikea.com/pl/pl/images/products/markus-krzeslo-biurowe-vissle-jasnoszary__1101440_pe866425_s5.jpg",
+              "imageAlt": "MARKUS Krzesło biurowe, Vissle jasnoszary",
+              "quickFacts": [],
+              "availability": [
+                {
+                  "type2": "HOME_DELIVERY",
+                  "status": "HIGH_IN_STOCK",
+                  "text": "Dostępne z dostawą"
+                },
+                {
+                  "type2": "CASH_AND_CARRY",
+                  "status": "HIGH_IN_STOCK",
+                  "prefix": "Dostępne w sklepie ",
+                  "store": "Kraków",
+                  "suffix": ""
+                }
+              ],
+              "ratingValue": 4.9,
+              "ratingCount": 583,
+              "homeDelivery": "HIGH_IN_STOCK",
+              "name": "MARKUS",
+              "typeName": "Krzesło biurowe",
+              "itemMeasureReferenceText": "",
+              "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/markus-krzeslo-biurowe-vissle-jasnoszary__1101440_pe866425_s5.jpg",
+              "mainImageAlt": "MARKUS Krzesło biurowe, Vissle jasnoszary",
+              "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/markus-krzeslo-biurowe-vissle-jasnoszary__1101443_pe866429_s5.jpg",
+              "itemNoGlobal": "10521858",
+              "onlineSellable": true,
+              "lastChance": false,
+              "badge": {
+                "type": "TOP_SELLER",
+                "text": "Top Seller"
+              },
+              "itemNo": "10521858",
+              "itemType": "ART",
+              "salesPrice": {
+                "currencyCode": "PLN",
+                "numeral": 699.0,
+                "current": {
+                  "prefix": "",
+                  "wholeNumber": "699",
+                  "separator": "",
+                  "decimals": "",
+                  "suffix": ",-",
+                  "isRegularCurrency": false
+                },
+                "isBreathTaking": false,
+                "discount": "",
+                "tag": "NONE",
+                "priceText": "Cena"
+              }
+            }
+          ]
+        },
+        "colors": [
+          {
+            "name": "szary",
+            "id": "10028",
+            "hex": "949494"
+          }
+        ],
+        "badge": {
+          "type": "TOP_SELLER",
+          "text": "Top Seller"
+        },
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [
+          {
+            "type2": "HOME_DELIVERY",
+            "status": "HIGH_IN_STOCK",
+            "text": "Dostępne z dostawą"
+          },
+          {
+            "type2": "CASH_AND_CARRY",
+            "status": "LOW_IN_STOCK",
+            "prefix": "Mała ilość w sklepie ",
+            "store": "Kraków",
+            "suffix": ""
+          }
+        ],
+        "ratingValue": 4.9,
+        "ratingCount": 583,
+        "itemNo": "70261150",
+        "itemType": "ART",
+        "salesPrice": {
+          "currencyCode": "PLN",
+          "numeral": 699.0,
+          "current": {
+            "prefix": "",
+            "wholeNumber": "699",
+            "separator": "",
+            "decimals": "",
+            "suffix": ",-",
+            "isRegularCurrency": false
+          },
+          "isBreathTaking": false,
+          "discount": "",
+          "tag": "NONE",
+          "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/markus-krzeslo-biurowe-vissle-ciemnoszary__0399810_pe563882_s5.jpg",
+        "mainImageAlt": "MARKUS Krzesło biurowe, Vissle ciemnoszary",
+        "businessStructure": {
+          "homeFurnishingBusinessName": "Workspaces",
+          "homeFurnishingBusinessNo": "03",
+          "productAreaName": "Office chairs",
+          "productAreaNo": "0352",
+          "productRangeAreaName": "Office workspace",
+          "productRangeAreaNo": "035"
+        },
+        "categoryPath": [
+          {
+            "name": "Meble",
+            "key": "fu001"
+          },
+          {
+            "name": "Krzesła",
+            "key": "fu002"
+          },
+          {
+            "name": "Krzesła i fotele biurowe",
+            "key": "20652"
+          },
+          {
+            "name": "Krzesła do biurka w domu",
+            "key": "20653"
+          }
+        ],
+        "homeDelivery": "HIGH_IN_STOCK",
+        "heroBackoffData": {},
+        "optimizelyAttributes": {
+          "PRODUCT_TYPE": "backoff"
+        }
+      },
+      {
+        "name": "MILLBERGET",
+        "typeName": "Krzesło obrotowe",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/millberget-krzeslo-obrotowe-murum-czarny__1020142_pe831799_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/millberget-krzeslo-obrotowe-murum-czarny-70489394/",
+        "id": "70489394",
+        "itemNoGlobal": "70489394",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 1,
+          "variants": [
+            {
+              "id": "70489389",
+              "pipUrl": "https://www.ikea.com/pl/pl/p/millberget-krzeslo-obrotowe-murum-bezowy-70489389/",
+              "imageUrl": "https://www.ikea.com/pl/pl/images/products/millberget-krzeslo-obrotowe-murum-bezowy__1020141_pe831795_s5.jpg",
+              "imageAlt": "MILLBERGET Krzesło obrotowe, Murum beżowy",
+              "quickFacts": [],
+              "availability": [
+                {
+                  "type2": "HOME_DELIVERY",
+                  "status": "HIGH_IN_STOCK",
+                  "text": "Dostępne z dostawą"
+                },
+                {
+                  "type2": "CASH_AND_CARRY",
+                  "status": "HIGH_IN_STOCK",
+                  "prefix": "Dostępne w sklepie ",
+                  "store": "Kraków",
+                  "suffix": ""
+                }
+              ],
+              "ratingValue": 4.8,
+              "ratingCount": 53,
+              "homeDelivery": "HIGH_IN_STOCK",
+              "name": "MILLBERGET",
+              "typeName": "Krzesło obrotowe",
+              "itemMeasureReferenceText": "",
+              "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/millberget-krzeslo-obrotowe-murum-bezowy__1020141_pe831795_s5.jpg",
+              "mainImageAlt": "MILLBERGET Krzesło obrotowe, Murum beżowy",
+              "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/millberget-krzeslo-obrotowe-murum-bezowy__1025951_pe834246_s5.jpg",
+              "itemNoGlobal": "70489389",
+              "onlineSellable": true,
+              "lastChance": false,
+              "itemNo": "70489389",
+              "itemType": "ART",
+              "salesPrice": {
+                "currencyCode": "PLN",
+                "numeral": 499.0,
+                "current": {
+                  "prefix": "",
+                  "wholeNumber": "499",
+                  "separator": "",
+                  "decimals": "",
+                  "suffix": ",-",
+                  "isRegularCurrency": false
+                },
+                "isBreathTaking": false,
+                "discount": "",
+                "tag": "NONE",
+                "priceText": "Cena"
+              }
+            }
+          ]
+        },
+        "colors": [
+          {
+            "name": "czarny",
+            "id": "10139",
+            "hex": "000000"
+          }
+        ],
+        "badge": {
+          "type": "TOP_SELLER",
+          "text": "Top Seller"
+        },
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [
+          {
+            "type2": "HOME_DELIVERY",
+            "status": "HIGH_IN_STOCK",
+            "text": "Dostępne z dostawą"
+          },
+          {
+            "type2": "CASH_AND_CARRY",
+            "status": "LOW_IN_STOCK",
+            "prefix": "Mała ilość w sklepie ",
+            "store": "Kraków",
+            "suffix": ""
+          }
+        ],
+        "ratingValue": 4.8,
+        "ratingCount": 53,
+        "itemNo": "70489394",
+        "itemType": "ART",
+        "salesPrice": {
+          "currencyCode": "PLN",
+          "numeral": 499.0,
+          "current": {
+            "prefix": "",
+            "wholeNumber": "499",
+            "separator": "",
+            "decimals": "",
+            "suffix": ",-",
+            "isRegularCurrency": false
+          },
+          "isBreathTaking": false,
+          "discount": "",
+          "tag": "NONE",
+          "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/millberget-krzeslo-obrotowe-murum-czarny__1025958_pe834253_s5.jpg",
+        "mainImageAlt": "MILLBERGET Krzesło obrotowe, Murum czarny",
+        "businessStructure": {
+          "homeFurnishingBusinessName": "Workspaces",
+          "homeFurnishingBusinessNo": "03",
+          "productAreaName": "Home swivel chairs",
+          "productAreaNo": "0342",
+          "productRangeAreaName": "Home workspace",
+          "productRangeAreaNo": "034"
+        },
+        "categoryPath": [
+          {
+            "name": "Meble",
+            "key": "fu001"
+          },
+          {
+            "name": "Krzesła",
+            "key": "fu002"
+          },
+          {
+            "name": "Krzesła i fotele biurowe",
+            "key": "20652"
+          },
+          {
+            "name": "Krzesła do biurka w domu",
+            "key": "20653"
+          }
+        ],
+        "homeDelivery": "HIGH_IN_STOCK",
+        "heroBackoffData": {},
+        "optimizelyAttributes": {
+          "PRODUCT_TYPE": "standard"
+        }
+      },
+      {
+        "name": "FLINTAN",
+        "typeName": "Krzesło biurowe z podłokietnikami",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/flintan-krzeslo-biurowe-z-podlokietnikami-czarny__1007241_pe825960_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/flintan-krzeslo-biurowe-z-podlokietnikami-czarny-s89424468/",
+        "id": "s89424468",
+        "itemNoGlobal": "89424468",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 1,
+          "variants": [
+            {
+              "id": "s09424467",
+              "pipUrl": "https://www.ikea.com/pl/pl/p/flintan-krzeslo-biurowe-z-podlokietnikami-bezowy-s09424467/",
+              "imageUrl": "https://www.ikea.com/pl/pl/images/products/flintan-krzeslo-biurowe-z-podlokietnikami-bezowy__1007238_pe825958_s5.jpg",
+              "imageAlt": "FLINTAN Krzesło biurowe z podłokietnikami, beżowy",
+              "quickFacts": [],
+              "availability": [
+                {
+                  "type2": "HOME_DELIVERY",
+                  "status": "HIGH_IN_STOCK",
+                  "text": "Dostępne z dostawą"
+                },
+                {
+                  "type2": "CASH_AND_CARRY",
+                  "status": "HIGH_IN_STOCK",
+                  "prefix": "Dostępne w sklepie ",
+                  "store": "Kraków",
+                  "suffix": ""
+                }
+              ],
+              "ratingValue": 5.0,
+              "ratingCount": 20,
+              "homeDelivery": "HIGH_IN_STOCK",
+              "name": "FLINTAN",
+              "typeName": "Krzesło biurowe z podłokietnikami",
+              "itemMeasureReferenceText": "",
+              "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/flintan-krzeslo-biurowe-z-podlokietnikami-bezowy__1007238_pe825958_s5.jpg",
+              "mainImageAlt": "FLINTAN Krzesło biurowe z podłokietnikami, beżowy",
+              "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/flintan-krzeslo-biurowe-z-podlokietnikami-bezowy__1121377_pe874224_s5.jpg",
+              "itemNoGlobal": "09424467",
+              "onlineSellable": true,
+              "lastChance": false,
+              "itemNo": "09424467",
+              "itemType": "SPR",
+              "salesPrice": {
+                "currencyCode": "PLN",
+                "numeral": 459.0,
+                "current": {
+                  "prefix": "",
+                  "wholeNumber": "459",
+                  "separator": "",
+                  "decimals": "",
+                  "suffix": ",-",
+                  "isRegularCurrency": false
+                },
+                "isBreathTaking": false,
+                "discount": "",
+                "tag": "NEW_PRODUCT",
+                "tagText": "Nowość",
+                "priceText": "Cena"
+              }
+            }
+          ]
+        },
+        "colors": [
+          {
+            "name": "czarny",
+            "id": "10139",
+            "hex": "000000"
+          }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [
+          {
+            "type2": "HOME_DELIVERY",
+            "status": "HIGH_IN_STOCK",
+            "text": "Dostępne z dostawą"
+          },
+          {
+            "type2": "CASH_AND_CARRY",
+            "status": "HIGH_IN_STOCK",
+            "prefix": "Dostępne w sklepie ",
+            "store": "Kraków",
+            "suffix": ""
+          }
+        ],
+        "ratingValue": 5.0,
+        "ratingCount": 20,
+        "itemNo": "89424468",
+        "itemType": "SPR",
+        "salesPrice": {
+          "currencyCode": "PLN",
+          "numeral": 459.0,
+          "current": {
+            "prefix": "",
+            "wholeNumber": "459",
+            "separator": "",
+            "decimals": "",
+            "suffix": ",-",
+            "isRegularCurrency": false
+          },
+          "isBreathTaking": false,
+          "discount": "",
+          "tag": "NONE",
+          "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/flintan-krzeslo-biurowe-z-podlokietnikami-czarny__1121378_pe874225_s5.jpg",
+        "mainImageAlt": "FLINTAN Krzesło biurowe z podłokietnikami, czarny",
+        "businessStructure": {
+          "homeFurnishingBusinessName": "Workspaces",
+          "homeFurnishingBusinessNo": "03",
+          "productAreaName": "Office chairs",
+          "productAreaNo": "0352",
+          "productRangeAreaName": "Office workspace",
+          "productRangeAreaNo": "035"
+        },
+        "categoryPath": [
+          {
+            "name": "Meble",
+            "key": "fu001"
+          },
+          {
+            "name": "Krzesła",
+            "key": "fu002"
+          },
+          {
+            "name": "Krzesła i fotele biurowe",
+            "key": "20652"
+          },
+          {
+            "name": "Krzesła do biurka w domu",
+            "key": "20653"
+          }
+        ],
+        "homeDelivery": "HIGH_IN_STOCK",
+        "heroBackoffData": {},
+        "optimizelyAttributes": {
+          "PRODUCT_TYPE": "standard"
+        }
+      }
+    ],
+    "productCount": 181,
+    "plannerWindow": [],
+    "plannerCount": 0,
+    "filters2": [
+      {
+        "id": "PRICE",
+        "name": "Cena",
+        "collapsed": false,
+        "type": "CLASS_FILTER",
+        "parameter": "f-price-buckets",
+        "eventAction": "filter_by_price",
+        "enabled": true,
+        "selected": false,
+        "actionTokens": [],
+        "values": [
+          {
+            "name": "0 - 199 zł",
+            "id": "PRICE_0_20000",
+            "count": 26,
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "name": "200 - 399 zł",
+            "id": "PRICE_20000_40000",
+            "count": 32,
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "name": "400 - 599 zł",
+            "id": "PRICE_40000_60000",
+            "count": 45,
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "name": "600 - 799 zł",
+            "id": "PRICE_60000_80000",
+            "count": 56,
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "name": "800+ zł",
+            "id": "PRICE_80000_2147483647",
+            "count": 22,
+            "selected": false,
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "FEATURE",
+        "name": "Właściwości",
+        "collapsed": false,
+        "type": "CLASS_FILTER",
+        "parameter": "f-feature",
+        "eventAction": "filter_by_feature",
+        "enabled": true,
+        "selected": false,
+        "actionTokens": [],
+        "values": [
+          {
+            "name": "Funkcja obrotowa",
+            "id": "53961",
+            "count": 149,
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "name": "Regulacja wysokości",
+            "id": "53486",
+            "count": 143,
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "name": "Tapicerowane",
+            "id": "47490",
+            "count": 133,
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "name": "Funkcja pochylenia",
+            "id": "53957",
+            "count": 103,
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "name": "Z kółkami",
+            "id": "53032",
+            "count": 102,
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "name": "Z podłokietnikami",
+            "id": "53497",
+            "count": 66,
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "name": "Z podgłówkiem",
+            "id": "53498",
+            "count": 16,
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "name": "Pokrycie nadające się do prania",
+            "id": "47644",
+            "count": 15,
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "name": "Zagłówek z regulacją wysokości",
+            "id": "53491",
+            "count": 10,
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "name": "Regulowana głebokość siedziska",
+            "id": "53495",
+            "count": 10,
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "name": "Podłokietnik z regulacją wysokości",
+            "id": "53492",
+            "count": 8,
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "name": "Oparcie z rugulacją wysokości",
+            "id": "53474",
+            "count": 6,
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "name": "Z podnóżkiem",
+            "id": "55374",
+            "count": 5,
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "name": "Zagłówek z regulacją głębokości",
+            "id": "59018",
+            "count": 5,
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "name": "Z regulacją okolicy lędźwiowej",
+            "id": "53496",
+            "count": 4,
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "name": "Przechowywanie pod stołem",
+            "id": "58876",
+            "count": 4,
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "name": "Podłokietnik z regulacją głębokości",
+            "id": "53493",
+            "count": 3,
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "name": "Ergonomiczne",
+            "id": "47461",
+            "count": 1,
+            "selected": false,
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "COLOR",
+        "name": "Kolor",
+        "collapsed": false,
+        "type": "CLASS_FILTER",
+        "parameter": "f-colors",
+        "eventAction": "filter_by_color",
+        "enabled": true,
+        "selected": false,
+        "actionTokens": [],
+        "values": [
+          {
+            "name": "czarny",
+            "id": "10139",
+            "count": 74,
+            "selected": false,
+            "enabled": true,
+            "hex": "000000"
+          },
+          {
+            "name": "biały",
+            "id": "10156",
+            "count": 62,
+            "selected": false,
+            "enabled": true,
+            "hex": "ffffff"
+          },
+          {
+            "name": "szary",
+            "id": "10028",
+            "count": 53,
+            "selected": false,
+            "enabled": true,
+            "hex": "949494"
+          },
+          {
+            "name": "beżowy",
+            "id": "10003",
+            "count": 39,
+            "selected": false,
+            "enabled": true,
+            "hex": "f4f3d7"
+          },
+          {
+            "name": "niebieski",
+            "id": "10007",
+            "count": 20,
+            "selected": false,
+            "enabled": true,
+            "hex": "0058a3"
+          },
+          {
+            "name": "różowy",
+            "id": "10119",
+            "count": 19,
+            "selected": false,
+            "enabled": true,
+            "hex": "ffb8c3"
+          },
+          {
+            "name": "zielony",
+            "id": "10033",
+            "count": 12,
+            "selected": false,
+            "enabled": true,
+            "hex": "3b7d22"
+          },
+          {
+            "name": "turkusowy",
+            "id": "10152",
+            "count": 4,
+            "selected": false,
+            "enabled": true,
+            "hex": "77ddd0"
+          },
+          {
+            "name": "brązowy",
+            "id": "10019",
+            "count": 3,
+            "selected": false,
+            "enabled": true,
+            "hex": "814820"
+          },
+          {
+            "name": "czerwony",
+            "id": "10124",
+            "count": 2,
+            "selected": false,
+            "enabled": true,
+            "hex": "f00f00"
+          },
+          {
+            "name": "żółty",
+            "id": "10042",
+            "count": 1,
+            "selected": false,
+            "enabled": true,
+            "hex": "ffdb00"
+          },
+          {
+            "name": "liliowy",
+            "id": "10064",
+            "count": 1,
+            "selected": false,
+            "enabled": true,
+            "hex": "a96ecc"
+          }
+        ]
+      },
+      {
+        "id": "CATEGORIES",
+        "name": "Kategoria",
+        "collapsed": false,
+        "type": "CLASS_FILTER",
+        "parameter": "f-subcategories",
+        "eventAction": "filter_by_category",
+        "enabled": true,
+        "selected": false,
+        "actionTokens": [],
+        "values": [
+          {
+            "name": "Krzesła do biurka w domu",
+            "id": "20653",
+            "count": 149,
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "name": "Krzesła biurowe",
+            "id": "20654",
+            "count": 112,
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "name": "Krzesła konferencyjne",
+            "id": "47068",
+            "count": 92,
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "name": "Krzesła do biurek dla dzieci",
+            "id": "24715",
+            "count": 12,
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "name": "Krzesła i fotele gamingowe",
+            "id": "47067",
+            "count": 12,
+            "selected": false,
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "MEASUREMENT_BUCKETS",
+        "name": "Rozmiar",
+        "collapsed": false,
+        "type": "TYPED_CLASS_FILTER",
+        "parameter": "f-measurement-buckets",
+        "eventAction": "filter_by_measurement_bucket",
+        "enabled": true,
+        "selected": false,
+        "actionTokens": [],
+        "types": [
+          {
+            "id": "WIDTH",
+            "name": "Szerokość",
+            "values": [
+              {
+                "name": "0 - 49 cm",
+                "id": "WIDTH_0_50",
+                "count": 17,
+                "selected": false,
+                "enabled": true
+              },
+              {
+                "name": "50 - 59 cm",
+                "id": "WIDTH_50_60",
+                "count": 17,
+                "selected": false,
+                "enabled": true
+              },
+              {
+                "name": "60 - 69 cm",
+                "id": "WIDTH_60_70",
+                "count": 119,
+                "selected": false,
+                "enabled": true
+              },
+              {
+                "name": "70 - 79 cm",
+                "id": "WIDTH_70_80",
+                "count": 19,
+                "selected": false,
+                "enabled": true
+              },
+              {
+                "name": "80+ cm",
+                "id": "WIDTH_80_2147483647",
+                "count": 2,
+                "selected": false,
+                "enabled": true
+              }
+            ]
+          },
+          {
+            "id": "DEPTH",
+            "name": "Głębokość",
+            "values": [
+              {
+                "name": "0 - 49 cm",
+                "id": "DEPTH_0_50",
+                "count": 9,
+                "selected": false,
+                "enabled": true
+              },
+              {
+                "name": "50 - 54 cm",
+                "id": "DEPTH_50_55",
+                "count": 4,
+                "selected": false,
+                "enabled": true
+              },
+              {
+                "name": "55 - 59 cm",
+                "id": "DEPTH_55_60",
+                "count": 16,
+                "selected": false,
+                "enabled": true
+              },
+              {
+                "name": "60 - 64 cm",
+                "id": "DEPTH_60_65",
+                "count": 8,
+                "selected": false,
+                "enabled": true
+              },
+              {
+                "name": "65+ cm",
+                "id": "DEPTH_65_2147483647",
+                "count": 128,
+                "selected": false,
+                "enabled": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "MATERIAL",
+        "name": "Materiał",
+        "collapsed": false,
+        "type": "CLASS_FILTER",
+        "parameter": "f-materials",
+        "eventAction": "filter_by_materials",
+        "enabled": true,
+        "selected": false,
+        "actionTokens": [],
+        "values": [
+          {
+            "name": "Tkanina",
+            "id": "38828",
+            "count": 135,
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "name": "Metal",
+            "id": "47350",
+            "count": 47,
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "name": "Tworzywo sztuczne",
+            "id": "47675",
+            "count": 32,
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "name": "Okleina drewniana",
+            "id": "53958",
+            "count": 12,
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "name": "Tkanina powlekana",
+            "id": "38830",
+            "count": 9,
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "name": "Skóra",
+            "id": "38829",
+            "count": 6,
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "name": "Drewno (łacznie z płytą)",
+            "id": "47349",
+            "count": 2,
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "name": "Stal nierdzewna",
+            "id": "32461",
+            "count": 1,
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "name": "Włókna syntetyczne",
+            "id": "48360",
+            "count": 1,
+            "selected": false,
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "RATINGS",
+        "name": "Ocena",
+        "collapsed": false,
+        "type": "CLASS_FILTER",
+        "parameter": "f-ratings",
+        "eventAction": "filter_by_rating_value_integer",
+        "enabled": true,
+        "selected": false,
+        "actionTokens": [],
+        "values": [
+          {
+            "name": "3",
+            "id": "3",
+            "count": 4,
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "name": "4",
+            "id": "4",
+            "count": 140,
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "name": "5",
+            "id": "5",
+            "count": 23,
+            "selected": false,
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "AVAILABLE_IN_STORE",
+        "name": "Dostępne w sklepie Kraków",
+        "collapsed": false,
+        "type": "BOOLEAN",
+        "parameter": "f-available-in-store",
+        "eventAction": "filter_by_available_in_store",
+        "enabled": true,
+        "selected": false,
+        "actionTokens": [],
+        "count": 170
+      },
+      {
+        "id": "AVAILABLE_ONLINE",
+        "name": "Dostępne w sprzedaży online",
+        "collapsed": false,
+        "type": "BOOLEAN",
+        "parameter": "f-online-sellable",
+        "eventAction": "filter_by_online_sellable",
+        "enabled": true,
+        "selected": false,
+        "actionTokens": [],
+        "count": 175
+      },
+      {
+        "id": "TOP_SELLER",
+        "name": "Top Seller",
+        "collapsed": false,
+        "type": "BOOLEAN",
+        "parameter": "f-top-seller",
+        "eventAction": "filter_by_top_seller",
+        "enabled": true,
+        "selected": false,
+        "actionTokens": [],
+        "count": 12
+      },
+      {
+        "id": "SUITABLE_FOR_BUSINESS",
+        "name": "Odpowiednie dla biznesu",
+        "collapsed": false,
+        "type": "BOOLEAN",
+        "parameter": "f-suitable-for-business",
+        "eventAction": "filter_by_suitable_for_business",
+        "enabled": true,
+        "selected": false,
+        "actionTokens": [],
+        "count": 112
+      },
+      {
+        "id": "SUITABLE_FOR",
+        "name": "Odpowiednie dla",
+        "collapsed": false,
+        "type": "CLASS_FILTER",
+        "parameter": "f-suitable-for",
+        "eventAction": "filter_by_suitable_for",
+        "enabled": true,
+        "selected": false,
+        "actionTokens": [],
+        "values": [
+          {
+            "name": "Dzieci",
+            "id": "53642",
+            "count": 7,
+            "selected": false,
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "LAST_CHANCE",
+        "name": "Ostatnia szansa",
+        "collapsed": false,
+        "type": "BOOLEAN",
+        "parameter": "f-last-chance",
+        "eventAction": "filter_by_last_chance",
+        "enabled": true,
+        "selected": false,
+        "actionTokens": [],
+        "count": 13
+      },
+      {
+        "id": "SERIES",
+        "name": "Serie",
+        "collapsed": false,
+        "type": "CLASS_FILTER",
+        "parameter": "f-series",
+        "eventAction": "filter_by_series",
+        "enabled": true,
+        "selected": false,
+        "actionTokens": [],
+        "values": [
+          {
+            "name": "Seria LÅNGFJÄLL",
+            "id": "36826",
+            "count": 74,
+            "selected": false,
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "SPECIAL_PRICE",
+        "name": "Oferta specjalna",
+        "collapsed": false,
+        "type": "BOOLEAN",
+        "parameter": "f-special-price",
+        "eventAction": "filter_by_special_price",
+        "enabled": true,
+        "selected": false,
+        "actionTokens": [],
+        "count": 2
+      },
+      {
+        "id": "NEW_PRODUCT",
+        "name": "Nowe produkty",
+        "collapsed": false,
+        "type": "BOOLEAN",
+        "parameter": "f-new-product",
+        "eventAction": "filter_by_new_product",
+        "enabled": true,
+        "selected": false,
+        "actionTokens": [],
+        "count": 19
+      }
+    ],
+    "sortOrders": {
+      "name": "Sortuj",
+      "values": [
+        {
+          "id": "RELEVANCE",
+          "name": "Dopasowanie",
+          "eventAction": "sort_by_relevance",
+          "selected": true
+        },
+        {
+          "id": "PRICE_LOW_TO_HIGH",
+          "name": "Cena: od najniższej",
+          "eventAction": "sort_by_price_low",
+          "selected": false
+        },
+        {
+          "id": "PRICE_HIGH_TO_LOW",
+          "name": "Cena: od najwyższej",
+          "eventAction": "sort_by_price_high",
+          "selected": false
+        },
+        {
+          "id": "RATING",
+          "name": "Ocena",
+          "eventAction": "sort_by_rating",
+          "selected": false
+        },
+        {
+          "id": "NAME_ASCENDING",
+          "name": "Nazwa",
+          "eventAction": "sort_by_name",
+          "selected": false
+        },
+        {
+          "id": "MOST_POPULAR",
+          "name": "Najpopularniejsze",
+          "eventAction": "sort_by_most_popular",
+          "selected": false
+        },
+        {
+          "id": "WIDTH",
+          "name": "Szerokość",
+          "eventAction": "sort_by_width",
+          "selected": false
+        },
+        {
+          "id": "HEIGHT",
+          "name": "Wysokość",
+          "eventAction": "sort_by_height",
+          "selected": false
+        },
+        {
+          "id": "DEPTH",
+          "name": "Głębokość",
+          "eventAction": "sort_by_depth",
+          "selected": false
+        }
+      ]
+    }
+  }
+}
